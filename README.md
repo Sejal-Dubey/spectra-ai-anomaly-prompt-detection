@@ -1,6 +1,9 @@
 # Spectra AI Mini Challenge: 
 
-## Project Overview 🛡️
+Quick demo video link : https://drive.google.com/file/d/180D3bHwLikpgUIX49ojPjkxA0gfCrgus/view?usp=sharing
+Detailed explanation demo video link : https://drive.google.com/file/d/1lApITow4mnQlskn7Ctwa1ykmyJbP1Bo-/view?usp=drive_link
+
+## Project Overview 
 
 This project implements a prototype designed to detect anomalous and potentially malicious prompts submitted to a Large Language Model (LLM). The core detection mechanism relies on a sophisticated statistical model that flags inputs that deviate from a learned baseline of "normal" user behavior.
 
